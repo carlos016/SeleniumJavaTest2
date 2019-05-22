@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a8ce4031-9dcb-4eef-86c2-d0a2d710e4bf" name="Default Changelist" comment="" />
+    <list default="true" id="a8ce4031-9dcb-4eef-86c2-d0a2d710e4bf" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PruebaCharla.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TestPrueba.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestPrueba.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,10 +32,14 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/TestPrueba.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="164">
-              <caret line="94" column="53" selection-start-line="94" selection-start-column="53" selection-end-line="94" selection-end-column="53" />
+            <state relative-caret-position="245">
+              <caret line="41" column="40" lean-forward="true" selection-start-line="41" selection-start-column="40" selection-end-line="41" selection-end-column="40" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#5465#5466#0" expanded="true" />
+                <element signature="e#5533#5534#0" expanded="true" />
+                <element signature="e#5586#5587#0" expanded="true" />
+                <element signature="e#5615#5616#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -45,6 +54,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -53,60 +65,40 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="281" />
-    <option name="y" value="-19" />
-    <option name="width" value="770" />
-    <option name="height" value="809" />
+  <component name="ProjectFrameBounds">
+    <option name="width" value="960" />
+    <option name="height" value="1033" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="PruebaCharla" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PruebaCharla" type="462c0819:PsiDirectoryNode" />
+              <item name="SeleniumJavaTest2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SeleniumJavaTest2" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="PruebaCharla" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PruebaCharla" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PruebaCharla" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PruebaCharla" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PruebaCharla" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PruebaCharla" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PruebaCharla" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PruebaCharla" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="SeleniumJavaTest2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SeleniumJavaTest2" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SeJaTestDocumento" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -135,7 +127,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.TestPrueba.test_carousel">
+  <component name="RunManager" selected="JUnit.TestPrueba">
     <configuration name="TestPrueba" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="PruebaCharla" />
       <option name="PACKAGE_NAME" value="" />
@@ -187,8 +179,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.TestPrueba.test_carousel" />
         <item itemvalue="JUnit.TestPrueba" />
+        <item itemvalue="JUnit.TestPrueba.test_carousel" />
         <item itemvalue="JUnit.TestPrueba.test_search" />
         <item itemvalue="JUnit.TestPrueba.test_tittle" />
         <item itemvalue="JUnit.TestPrueba.test_product" />
@@ -217,6 +209,7 @@
       <workItem from="1558092884872" duration="752000" />
       <workItem from="1558095732378" duration="1550000" />
       <workItem from="1558435874741" duration="3845000" />
+      <workItem from="1558528488667" duration="104000" />
     </task>
     <servers />
   </component>
@@ -253,7 +246,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="74185000" />
+    <option name="totallyTimeSpent" value="74289000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -265,10 +258,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="840" extended-state="7" />
+    <frame x="0" y="0" width="768" height="826" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12013423" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29096046" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -312,10 +305,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/TestPrueba.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="164">
-          <caret line="94" column="53" selection-start-line="94" selection-start-column="53" selection-end-line="94" selection-end-column="53" />
+        <state relative-caret-position="245">
+          <caret line="41" column="40" lean-forward="true" selection-start-line="41" selection-start-column="40" selection-end-line="41" selection-end-column="40" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#5465#5466#0" expanded="true" />
+            <element signature="e#5533#5534#0" expanded="true" />
+            <element signature="e#5586#5587#0" expanded="true" />
+            <element signature="e#5615#5616#0" expanded="true" />
           </folding>
         </state>
       </provider>
